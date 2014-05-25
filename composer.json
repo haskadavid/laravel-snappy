@@ -1,5 +1,5 @@
 {
-    "name": "Haska/laravel-snappy",
+    "name": "haska/laravel-snappy",
     "description": "Laravel snappy package",
     "keywords": ["laravel","snappy", "pdf", "image", "wkhtmltopdf", "wkhtmltoimage"],
     "authors": [
