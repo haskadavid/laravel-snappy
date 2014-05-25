@@ -1,0 +1,22 @@
+{
+    "name": "Haska/laravel-snappy",
+    "description": "Laravel snappy package",
+    "keywords": ["laravel","snappy", "pdf", "image", "wkhtmltopdf", "wkhtmltoimage"],
+    "authors": [
+        {
+            "name": "David Haska",
+            "email": "david.haska@seznam.cz"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.x",
+        "knplabs/knp-snappy": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Haska\\Snappy": "src/"
+        }
+    }
+}
